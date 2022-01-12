@@ -37,7 +37,7 @@ Type (npm i) in console
 
 ## 📝 Features & Commands
 
-* Currently supported platforms:
+Currently supported platforms:
 - Youtube
 - Spotify
 - Soundcloud
