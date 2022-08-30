@@ -1,3 +1,5 @@
+## v2 supports spotify, and v1 does not.
+
 ## Installation
 
 1. How to obtain a Discord Bot Token **[Guide](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot)**
