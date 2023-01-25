@@ -1,4 +1,4 @@
-## v2 supports spotify, and v1 does not.
+## v2 supports spotify, and v1 does not. Launch in Heroku or Render, or other PaaS.
 
 ## Installation
 
